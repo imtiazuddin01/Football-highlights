@@ -22,21 +22,3 @@ async function f() {
 
 f();
 
-/*fetch("https://free-football-soccer-videos.p.rapidapi.com/", {
-  method: "GET",
-  headers: {
-    "x-rapidapi-host": "free-football-soccer-videos.p.rapidapi.com",
-    "x-rapidapi-key": "77fde22e03msh6355d78a900986fp1c4c81jsn4d795d653f3f",
-  },
-})
-  .then((response) => {
-    const posts = response.json();
-    console.log(posts);
-  })
-  .then((posts) => {
-    console.log(posts[0]);
-  })
-
-  .catch((err) => {
-    console.error(err);
-  });*/
