@@ -37,7 +37,7 @@ img {
   background: blue;
   color: #fff;
 }
-@media (max-width: 400px) {
+@media (max-width: 476px) {
   .container {
     width: 100%;
     margin: 0;
